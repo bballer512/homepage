@@ -1,0 +1,16 @@
+body{
+        padding: 10m;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 200px;
+    color:white;
+    text-align:center;
+    margin: 20px;
+}
+
+p {
+    font-size: 30px;
+    color: white;
+    text-align:center;
